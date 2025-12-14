@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.even {
+    background-color: rgba(247, 221, 234, 0.39);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.px24 {
+    font-size: 24px;
+}
+
+#id2 {
+    color: hsla(251, 98%, 50%, 0.959);
+    font-size: 36px;
+}
+
+#id4 {
+    background-color: hsla(133, 80%, 66%, 0.5);
+    font-weight: bold;
+}
